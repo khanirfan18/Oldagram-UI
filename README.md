@@ -29,6 +29,7 @@ The design is inspired by a Figma project concept.
 
 ---
 
-live-link :
+## live-link :  https://oldagramlive.netlify.app/
 
-screenshot :
+## screenshot :<img width="559" height="860" alt="Screenshot 2025-07-16 204059" src="https://github.com/user-attachments/assets/8e5d808c-c4dd-47b4-a6ad-532ffb94ea72" />
+
